@@ -40,7 +40,7 @@ body {
 
     .container {
         width: 250px;
-
+        padding-left: 1px;
     }
 }
 
@@ -367,7 +367,7 @@ body {
 
 @media(max-width:786px) {
     .com .compon {
-        font-size: 90px;
+        font-size: 80px;
 
     }
 
@@ -544,6 +544,8 @@ body {
     }
 
 }
+
+
 
 /* End Servses */
 
